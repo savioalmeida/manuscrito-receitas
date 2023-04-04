@@ -4,3 +4,4 @@ Olá, bem vindo ao meu livro de receitas. :wave:
 
 - Musse de Maracujá
 - Pavê
+- Bolo de Cenoura
